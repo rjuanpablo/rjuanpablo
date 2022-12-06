@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Ruiz</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Security System from OSUNR**
+- 🔭 I’m currently working on **Security System OSUNR**
 
 - 👯 I’m currently collaborating on [Desus Web](https://desusweb.com/)
 
