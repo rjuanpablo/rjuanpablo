@@ -5,7 +5,7 @@
 
 - 👯 I’m currently collaborating on [Desus Web](https://desusweb.com/)
 
-- 💬 Ask me about **Laravel, Vue, Tailwind and Docker**
+- 💬 Ask me about **React, Laravel, Vue, Tailwind and Docker**
 
 - 📫 How to reach me **juanpabloruizbre@gmail.com**
 
